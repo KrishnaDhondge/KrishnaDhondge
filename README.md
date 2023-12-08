@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KrishnaDhondge
-- 👀 I’m interested in ...DevOps Cloud & Technology 
-- 🌱 I had
- studied engineering ..in SGGSIE&T Nanded 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... DevOps, Cloud Technology 
+- 🌱 I have
+ studied engineering ..in SGGSIET Nanded 
+- 💞️ I’m looking to collaborate on ... innovative technologies 
 - 📫 How to reach me .. at krishnadhondge111@gmail.com 
 
 
